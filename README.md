@@ -1,5 +1,5 @@
 # About Me:
-🌱 I’m currently learning DSA in Java,Springboot Framework <br>& Frontend Development  
+🌱 I’m currently learning DSA in Java and Javascript, ReactJS, NodeJS, MongoDB <br>
 🎥 I do watch movies a lot
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFvc2x6cmZtNzVlaTNrN3V6ZDM5a2UxNHNyZWlsOXd5Zno0aGF5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
